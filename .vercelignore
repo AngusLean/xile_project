@@ -1,0 +1,6 @@
+requirements.txt
+scripts/
+tests/
+.venv/
+docs/
+*.py
