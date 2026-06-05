@@ -1,8 +1,11 @@
 {
+  "framework": null,
+  "buildCommand": "echo 'Static HTML build done.'",
+  "outputDirectory": "output/mainichigahakken-recursive",
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/output/mainichigahakken-recursive/$1"
+      "destination": "/$1"
     }
   ]
 }

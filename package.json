@@ -1,0 +1,7 @@
+{
+  "name": "mainichigahakken-cn",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static HTML build done.'"
+  }
+}
