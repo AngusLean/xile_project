@@ -1,0 +1,360 @@
+{
+  "downloaded_assets": [
+    {
+      "url": "https://mainichigahakken.net/mt-static/support/theme_static/rainier/img/siteicon.png",
+      "path": "assets/a7a4593e2489d7e0.png"
+    },
+    {
+      "url": "https://mainichigahakken.net/img/favicon.ico",
+      "path": "assets/b791d691305ef4ad.ico"
+    },
+    {
+      "url": "https://mainichigahakken.net/img/appicon.png",
+      "path": "assets/fcac475614b36bd7.png"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/02/559bfcf772feb88906f1589b75443f00208cd6c8-thumb-320xauto-349305.jpg",
+      "path": "assets/1b37ccab995e0582.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/hobby/assets_c/2026/03/3eba6cbab53efc453bf18c086f96b22c4e342307-thumb-320xauto-355873.jpg",
+      "path": "assets/33a0e561111f7cdd.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/05/14029742-thumb-320xauto-373499.jpg",
+      "path": "assets/7c3f5dabf8e2cb65.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/05/14029625-thumb-320xauto-373490.jpg",
+      "path": "assets/fbfc367b06969f6e.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/05/14029560-thumb-320xauto-373483.jpg",
+      "path": "assets/19cfde3c8d3d6e2b.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/05/14029202-thumb-320xauto-373435.jpg",
+      "path": "assets/38e0a41841d132f7.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/life/assets_c/2026/05/accbcfebda69cd4bf331cd754cf7e2b99a1b772a-thumb-320xauto-374243.jpg",
+      "path": "assets/5383a01367948070.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/health/assets_c/2026/05/14026531-thumb-320xauto-369892.jpg",
+      "path": "assets/578cf618c086c0d5.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/life/assets_c/2026/05/8b51a71c9cb33576096332c83cff0e152e2069f2-thumb-320xauto-372471.jpg",
+      "path": "assets/b2275bbf7c46c119.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/life/assets_c/2026/05/650b983a7e68a8f3df4f684ae4a7bc72d904fbf7-thumb-320xauto-371071.jpg",
+      "path": "assets/cbc95015fc143271.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/life/assets_c/2026/05/51cd05d8253f255e69b0bf15b9a53f2d252459e4-thumb-320xauto-370934.jpg",
+      "path": "assets/a7dbc19d5e754c9b.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2019/06/0629_1200-thumb-320xauto-27399.jpg",
+      "path": "assets/83e0131d5d0b5c84.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/1ee3dd28da899ccc87d7529f6b5480014c08069c-thumb-320xauto-372434.jpg",
+      "path": "assets/f0de5b3742926292.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/475dd5258f5bd2459523a1eee4d96ae76a8a4649-thumb-320xauto-374112.jpg",
+      "path": "assets/b5a94c0c0d259e00.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/270869be0053ce45c2e5cc2089bd7685487fd156-thumb-320xauto-374111.jpg",
+      "path": "assets/0fabb141daf90b58.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/5f53eac4f0991caeeeef9a46ce618f2a2bb4df20-thumb-320xauto-374110.jpg",
+      "path": "assets/bb191df9a95cbf41.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/98937c59abc31a746123db2d5b75430acf693354-thumb-320xauto-374109.jpg",
+      "path": "assets/f5ce2233961c7ee4.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/34bb2f42fb7ddf7d582318f4a291730260991d3b-thumb-320xauto-374108.jpg",
+      "path": "assets/d1bf1984d0592645.jpg"
+    },
+    {
+      "url": "https://mainichigahakken.net/essay/assets_c/2026/05/763a567da7a257605cfc5ae275d0d25f9afd5e8f-thumb-320xauto-374107.jpg",
+      "path": "assets/78225bee9659dc04.jpg"
+    }
+  ],
+  "failed_assets": [],
+  "remaining_remote_references": [
+    {
+      "tag": "meta",
+      "attr": "content",
+      "value": "https://mainichigahakken.net/"
+    },
+    {
+      "tag": "link",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/"
+    },
+    {
+      "tag": "link",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/mt-static/support/theme_static/rainier/img/siteicon.png"
+    },
+    {
+      "tag": "link",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/2ok.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/2ok.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/hobby/article/amazon3000-5.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/hobby/article/amazon3000-5.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-3.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-3.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-2.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-2.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-1.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10-1.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/-5kg10.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/8-80.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/8-80.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/post-12370.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/health/article/post-12370.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/post-16270.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/post-16270.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/90-9.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/90-9.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/post-16236.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/life/article/post-16236.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713196.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713196.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713195.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713195.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/65chii.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/65chii.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713197.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713197.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713193.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/post-75713193.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/20-70.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/20-70.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/20-69.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/20-69.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/50-20240349.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/50-20240349.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/50-20240348.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/essay/article/50-20240348.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://lettuceclub-help.kadokawa.co.jp/hc/ja/requests/new?ticket_form_id=57467824319129"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://www.lettuceclub.net/information/privacy/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://mainichigahakken.net/optout.php"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://www.lettuceclub.net/company/profile/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://www.walkerplus.com/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://www.lettuceclub.net/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://ddnavi.com/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://thetv.jp/"
+    },
+    {
+      "tag": "a",
+      "attr": "href",
+      "value": "https://www.comic-essay.com/"
+    }
+  ]
+}
