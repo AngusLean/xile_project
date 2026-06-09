@@ -11,23 +11,23 @@ def process_file(filepath):
         header_str = m.group(0)
         
         def rep_href(hm):
-            url = hm.group(1)
+            url = hm.group(2)
             # if it's already /pages/..., let's fix it
             if url.startswith('/pages/'):
                 url = url.replace('/pages/', '/')
                 url = url.replace('/index.html', '')
             
             if url == '/' or url == '' or url == '/index.html':
-                return r'href=\"/index.html\"'
+                return r'href="/index.html"'
             elif url.startswith('http'):
                 return hm.group(0) # Keep external links
             else:
                 url = url.lstrip('/')
                 if url.endswith('/'):
                     url = url[:-1]
-                return f'href=\"/pages/{url}/index.html\"'
+                return f'href="/pages/{url}/index.html"'
                 
-        new_header = re.sub(r'href=\\"([^\\"]+)\\"', rep_href, header_str)
+        new_header = re.sub(r'href=(\\"|")([^\\"]+)\1', rep_href, header_str)
         return new_header
 
     new_content = re.sub(r"headerContents\s*=\s*'([^']+)'", replace_in_header, content)
